@@ -1,3 +1,5 @@
+![Screenshot 2024-07-14 184614](https://github.com/user-attachments/assets/b21e5a2c-d564-4348-8f47-19297c2f1866)
+
 # Google Generative AI
 
 This project is a web application based on user prompts using Google's Generative AI. The application utilizes Node.js, Express, and EJS for templating.
